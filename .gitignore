@@ -1,0 +1,21 @@
+.DS_Store
+.idea/
+.vscode/
+.gradle/
+.kotlin/
+build/
+**/build/
+local.properties
+captures/
+.cxx/
+*.iml
+
+# Signing / secrets
+*.jks
+*.keystore
+*.key
+*.pem
+*.p12
+*.der
+*.env
+*.env.*
